@@ -6,13 +6,13 @@ from sshtunnel import SSHTunnelForwarder
 import paramiko
 
 
-ssh_host = 'ec2-18-208-120-207.compute-1.amazonaws.com'
-ssh_username = 'ubuntu'
-ssh_password = 'SecretPassword'
-database_name = 'datacrunch'
-endpoint = 'mwsmaster-dtc-r.cfx5gks3rioa.us-east-1.rds.amazonaws.com'
+ssh_host = 'hidden'
+ssh_username = 'hidden'
+ssh_password = 'hidden'
+database_name = 'hidden'
+endpoint = 'hidden'
 database_username = 'yanjie_zheng'
-database_password = '4pGp37bvNnjHEejb'
+database_password = 'hidden'
 
 
 
